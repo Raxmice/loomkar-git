@@ -378,7 +378,7 @@ const getallproducts = async (trend)=>{
                         })
                       }
                     </div>
-                    <div className='all-center'><a href='/'><div className='action-btn'>VIEW ALL</div></a></div>
+                    <div className='all-center'><a href='/sarees'><div className='action-btn'>VIEW ALL</div></a></div>
                 </div>
             </div>
         </section>
