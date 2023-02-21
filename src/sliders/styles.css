@@ -1,0 +1,15 @@
+.swiper-pagination-bullet-active{
+    background: #000;
+}
+.swiper-button-prev::after{
+    display: none;
+}
+.swiper-button-next::after{
+    display: none;
+}
+.swiper-button-prev{
+    left: 30px;
+}
+.swiper-button-next{
+    right: 30px;
+}

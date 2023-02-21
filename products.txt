@@ -1,0 +1,255 @@
+[
+{
+    "product_name":"Pure Ajrakh Block Print Cotton Saree",
+    "product_url":"Pure-Ajrakh-Block-Print-Cotton-Saree",
+    "description":"This Pure Cotton Ajrakh saree with a beautiful block print embellishes your sophisticated personality with a subtle classiness. Ajrakh fabrics are superbly gorgeous used mostly in Sindh (Pakistan) & Kutch (India) and are still a major part of Sindhi culture.",
+    "vendor":"loomkar",
+    "product_type":"Ajrakh",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Pure-Ajrakh-Block-Print-Cotton-Saree/107.png",
+        "sarees/Pure-Ajrakh-Block-Print-Cotton-Saree/108.png",
+        "sarees/Pure-Ajrakh-Block-Print-Cotton-Saree/109.png",
+        "sarees/Pure-Ajrakh-Block-Print-Cotton-Saree/110.png"
+      ],
+    "rating":4,
+    "price":2500,
+    "discount":2800,
+    "quantity":1
+},
+{
+    "product_name":"Blue Khadi Linen Kalamkari With Pink Border",
+    "product_url":"Blue-Khadi-Linen-Kalamkari-With-Pink-Border",
+    "description":"Pretty. Stunning. Wow! This blue Khadi linen saree with a pink border will just steal your heart away. Added to it, is the awesome feeling that Khadi fabrics provide! Khadi is known to be a proud symbol of our Indian identity. Drape it around and let your confident and independent personality shine.",
+    "vendor":"loomkar",
+    "product_type":"Ajrakh",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Blue-Khadi-Linen-Kalamkari-With-Pink-Border/95.png",
+        "sarees/Blue-Khadi-Linen-Kalamkari-With-Pink-Border/96.png",
+        "sarees/Blue-Khadi-Linen-Kalamkari-With-Pink-Border/97.png",
+        "sarees/Blue-Khadi-Linen-Kalamkari-With-Pink-Border/98.png"
+      ],
+    "rating":5,
+    "price":1800,
+    "discount":2000,
+    "quantity":1
+},
+{
+    "product_name":"Blue Khadi Linen Saree In Bagh Print",
+    "product_url":"Blue-Khadi-Linen-Saree-In-Bagh-Print",
+    "description":"Pretty. Stunning. Wow! This blue Khadi linen saree with a pink border will just steal your heart away. Added to it, is the awesome feeling that Khadi fabrics provide! Khadi is known to be a proud symbol of our Indian identity. Drape it around and let your confident and independent personality shine.",
+    "vendor":"loomkar",
+    "product_type":"Khadi",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Blue-Khadi-Linen-Saree-In-Bagh-Print/91.png",
+        "sarees/Blue-Khadi-Linen-Saree-In-Bagh-Print/92.png",
+        "sarees/Blue-Khadi-Linen-Saree-In-Bagh-Print/93.png",
+        "sarees/Blue-Khadi-Linen-Saree-In-Bagh-Print/94.png"
+      ],
+    "rating":5,
+    "price":1520,
+    "discount":1900,
+    "quantity":1
+},
+{
+    "product_name":"Royal Blue And Green Khadi Zari Floral Border",
+    "product_url":"Royal-Blue-And-Green-Khadi-Zari-Floral-Border",
+    "description":"Wanna don a saree that perfectly depicts your elegance? This Royal Blue and Green Khadi Floral Zari Saree are the ones for you! Khadi fabrics are primarily used in sarees to improve their temperature resistance. With the touch of silk, it carries elegance with grace.",
+    "vendor":"loomkar",
+    "product_type":"Khadi",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Royal-Blue-And-Green-Khadi-Zari-Floral-Border/75.png",
+        "sarees/Royal-Blue-And-Green-Khadi-Zari-Floral-Border/77.png",
+        "sarees/Royal-Blue-And-Green-Khadi-Zari-Floral-Border/78.png"
+      ],
+    "rating":5,
+    "price":1700,
+    "discount":2000,
+    "quantity":1
+},
+{
+    "product_name":"Khadi Silk Golden Border Saree",
+    "product_url":"Khadi-Silk-Golden-Border-Saree",
+    "description":"Wanna don a saree that perfectly depicts your elegance? This Khadi Silk Saree in Golden border is the one for you! Linen fabrics are mostly used in sarees to improve their durability and strength. With the touch of silk, it carries elegance with grace..",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Khadi-Silk-Golden-Border-Saree/01.jpg",
+        "sarees/Khadi-Silk-Golden-Border-Saree/02.jpg",
+        "sarees/Khadi-Silk-Golden-Border-Saree/03.jpg",
+        "sarees/Khadi-Silk-Golden-Border-Saree/04.jpg",
+        "sarees/Khadi-Silk-Golden-Border-Saree/05.jpg",
+        "sarees/Khadi-Silk-Golden-Border-Saree/06.jpg"
+      ],
+    "rating":5,
+    "price":1750,
+    "discount":2000,
+    "quantity":1
+},
+{
+    "product_name":"Pink Kanjivaram Border Khadi Silk Saree",
+    "product_url":"Pink-Kanjivaram-Border-Khadi-Silk-Saree",
+    "description":"Kanjivaram is a beautiful silk pattern because of their intricate design and royal feels. When paired with Khadi saree, it generates a beautiful combination worth wearing and feeling magnificent.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Pink-Kanjivaram-Border-Khadi-Silk-Saree/01.jpg",
+        "sarees/Pink-Kanjivaram-Border-Khadi-Silk-Saree/02.jpg",
+        "sarees/Pink-Kanjivaram-Border-Khadi-Silk-Saree/03.jpg",
+        "sarees/Pink-Kanjivaram-Border-Khadi-Silk-Saree/04.jpg",
+        "sarees/Pink-Kanjivaram-Border-Khadi-Silk-Saree/05.jpg"
+      ],
+    "rating":5,
+    "price":1850,
+    "discount":2100,
+    "quantity":1
+},
+{
+    "product_name":"Red Kanjivaram Border Khadi Silk Saree",
+    "product_url":"Red-Kanjivaram-Border-Khadi-Silk-Saree",
+    "description":"Kanjivaram is a beautiful silk pattern because of their intricate design and royal feels. When paired with Khadi saree, it generates a beautiful combination worth wearing and feeling magnificent.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Red-Kanjivaram-Border-Khadi-Silk-Saree/01.jpg",
+        "sarees/Red-Kanjivaram-Border-Khadi-Silk-Saree/02.jpg",
+        "sarees/Red-Kanjivaram-Border-Khadi-Silk-Saree/03.jpg",
+        "sarees/Red-Kanjivaram-Border-Khadi-Silk-Saree/04.jpg",
+        "sarees/Red-Kanjivaram-Border-Khadi-Silk-Saree/05.jpg"
+      ],
+    "rating":5,
+    "price":1850,
+    "discount":2100,
+    "quantity":1
+},
+{
+    "product_name":"Blue Kanjivaram Border Khadi Silk Saree",
+    "product_url":"Blue-Kanjivaram-Border-Khadi-Silk-Saree",
+    "description":"Kanjivaram is a beautiful silk pattern because of their intricate design and royal feels. When paired with Khadi saree, it generates a beautiful combination worth wearing and feeling magnificent.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Blue-Kanjivaram-Border-Khadi-Silk-Saree/01.jpg",
+        "sarees/Blue-Kanjivaram-Border-Khadi-Silk-Saree/02.jpg",
+        "sarees/Blue-Kanjivaram-Border-Khadi-Silk-Saree/03.jpg",
+        "sarees/Blue-Kanjivaram-Border-Khadi-Silk-Saree/04.jpg",
+        "sarees/Blue-Kanjivaram-Border-Khadi-Silk-Saree/05.jpg",
+        "sarees/Blue-Kanjivaram-Border-Khadi-Silk-Saree/06.jpg"
+      ],
+    "rating":5,
+    "price":1850,
+    "discount":2100,
+    "quantity":1
+},
+{
+    "product_name":"Black Kanjivaram Border Khadi Silk Saree",
+    "product_url":"Black-Kanjivaram-Border-Khadi-Silk-Saree",
+    "description":"Kanjivaram is a beautiful silk pattern because of their intricate design and royal feels. When paired with Khadi saree, it generates a beautiful combination worth wearing and feeling magnificent.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Black-Kanjivaram-Border-Khadi-Silk-Saree/01.jpg",
+        "sarees/Black-Kanjivaram-Border-Khadi-Silk-Saree/02.jpg",
+        "sarees/Black-Kanjivaram-Border-Khadi-Silk-Saree/03.jpg",
+        "sarees/Black-Kanjivaram-Border-Khadi-Silk-Saree/04.jpg",
+        "sarees/Black-Kanjivaram-Border-Khadi-Silk-Saree/05.jpg"
+      ],
+    "rating":5,
+    "price":1850,
+    "discount":2100,
+    "quantity":1
+},
+{
+    "product_name":"Khadi Linen Saree In Bagh Print With Blue Border",
+    "product_url":"Khadi-Linen-Saree-In-Bagh-Print-With-Blue-Border",
+    "description":"Wanna don a saree that perfectly depicts your elegance? This Khadi Linen Saree in Bagh Print is the one for you! Linen fabrics are primarily used in sarees to improve their durability and strength. With the touch of a Blue border, it carries elegance with grace.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Khadi-Linen-Saree-In-Bagh-Print-With-Blue-Border/01.jpg",
+        "sarees/Khadi-Linen-Saree-In-Bagh-Print-With-Blue-Border/02.jpg",
+        "sarees/Khadi-Linen-Saree-In-Bagh-Print-With-Blue-Border/03.jpg",
+        "sarees/Khadi-Linen-Saree-In-Bagh-Print-With-Blue-Border/04.jpg"
+      ],
+    "rating":5,
+    "price":1520,
+    "discount":1900,
+    "quantity":1
+},
+{
+    "product_name":"Light Blue Khadi Linen Saree In Bagh Print & Kalamkari Anchal With Pink Border",
+    "product_url":"Light-Blue-Khadi-Linen-Saree-In-Bagh-Print-&-Kalamkari-Anchal-With-Pink-Border",
+    "description":"Wanna don a saree that perfectly depicts your elegance? This Light Blue Khadi Linen Saree in Bagh Print and Kalamkari Anchal is the one for you! Linen fabrics are mostly used in sarees to improve their durability and strength. With the touch of a Pink border along with Kalamkari Anchal, it carries elegance with grace.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Light-Blue-Khadi-Linen-Saree-In-Bagh-Print-&-Kalamkari-Anchal-With-Pink-Border/01.jpg",
+        "sarees/Light-Blue-Khadi-Linen-Saree-In-Bagh-Print-&-Kalamkari-Anchal-With-Pink-Border/02.jpg",
+        "sarees/Light-Blue-Khadi-Linen-Saree-In-Bagh-Print-&-Kalamkari-Anchal-With-Pink-Border/03.jpg",
+        "sarees/Light-Blue-Khadi-Linen-Saree-In-Bagh-Print-&-Kalamkari-Anchal-With-Pink-Border/04.jpg"
+      ],
+    "rating":5,
+    "price":1520,
+    "discount":1900,
+    "quantity":1
+},
+{
+    "product_name":"Blue Khadi Linen Saree In Kalamkari Print",
+    "product_url":"Blue-Khadi-Linen-Saree-In-Kalamkari-Print",
+    "description":"Wanna don a saree that perfectly depicts your elegance? This Blue Khadi Linen Saree in Kalamkari Print is the one for you! Linen fabrics are primarily used in sarees to improve their durability and strength. With the touch of Kalamkari Print, it carries elegance with grace.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Blue-Khadi-Linen-Saree-In-Kalamkari-Print/01.jpg",
+        "sarees/Blue-Khadi-Linen-Saree-In-Kalamkari-Print/02.jpg",
+        "sarees/Blue-Khadi-Linen-Saree-In-Kalamkari-Print/03.jpg",
+        "sarees/Blue-Khadi-Linen-Saree-In-Kalamkari-Print/04.jpg"
+      ],
+    "rating":5,
+    "price":1520,
+    "discount":1900,
+    "quantity":1
+},
+{
+    "product_name":"Yellow And Black Khadi Linen Saree In Ikat Print",
+    "product_url":"Yellow-And-Black-Khadi-Linen-Saree-In-Ikat-Print",
+    "description":"Wanna don a saree that perfectly depicts your elegance? This Yellow and Black Khadi Linen Saree in Ikat Print is the one for you! Linen fabrics are mostly used in sarees to improve their durability and strength. With the touch of Ikat Print, it carries elegance with grace.",
+    "vendor":"loomkar",
+    "product_type":" ",
+    "avail":"sale",
+    "tag":"best saller",
+    "imgs":[
+        "sarees/Yellow-And-Black-Khadi-Linen-Saree-In-Ikat-Print/01.jpg",
+        "sarees/Yellow-And-Black-Khadi-Linen-Saree-In-Ikat-Print/02.jpg",
+        "sarees/Yellow-And-Black-Khadi-Linen-Saree-In-Ikat-Print/03.jpg",
+        "sarees/Yellow-And-Black-Khadi-Linen-Saree-In-Ikat-Print/04.jpg"
+      ],
+    "rating":0,
+    "price":1800,
+    "discount":2000,
+    "quantity":0
+}
+]
